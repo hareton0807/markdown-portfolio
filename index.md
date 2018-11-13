@@ -18,9 +18,5 @@ layout: default
 
 <br>
 
-{% include 05-emphasis.md %}
-
-<br>
-
 {% include 07-test.md %}
 
